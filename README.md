@@ -60,4 +60,4 @@ To run the application:
 **User Authorization**
    - **Role-Based Access Control**:
      - The application implements role-based authorization to restrict certain actions to admin users.
-     - Regular users can create and update their own todos, but only admins have the rights to delete or update todos created by others.
+     - Regular users can create and update their own todos, but only admins have the rights to delete todos created by others.
